@@ -1,4 +1,5 @@
 Tasks Completed:
+
 Task 1 – Calculator
 Created a simple calculator web app using HTML, CSS, and JavaScript that performs basic arithmetic operations.
 
